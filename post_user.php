@@ -1,4 +1,5 @@
 <?php
+//By Rex
 require_once "config.php";
 
 // Fungsi untuk membersihkan input
