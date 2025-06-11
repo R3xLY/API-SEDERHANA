@@ -17,6 +17,18 @@ Project ini menggunakan software [Postman](https://www.postman.com) untuk menggu
 Maka pada database phpmyadmin akan ada informasi user baru seperi di gambar
 ![Screenshot 2025-06-11 230918](https://github.com/user-attachments/assets/7edd17bd-87ef-4a0a-9ff6-4c7e617413fe)
 
-3. Metode `PUT`
+3. Metode `PUT` 
    - Endpoint `/Users/id database`
    - Contoh URL nya `http://localhost/dbapi/index.php?path=users/7`
+   - Pada bagian Key tambahkan name dan password untuk meng-update informasi dari id user 7 seperti di gambar
+     ![Screenshot 2025-06-11 231142](https://github.com/user-attachments/assets/a26ff12a-b142-4c49-b0bf-33448d94d173)
+Maka database name dan email pada id 7 akan berubah seperti di gambar
+![Screenshot 2025-06-11 231153](https://github.com/user-attachments/assets/13955e68-c246-4110-a248-cc169fd29071)
+
+4. Metode `DELETE`
+   - Endpoint `/users/7`
+   - Contoh URL nya `http://localhost/dbapi/index.php?path=users/7`
+   - Pada key nya di masukkan id dari id user di database seperti di gambar
+     ![Screenshot 2025-06-11 231142](https://github.com/user-attachments/assets/98559885-9e44-43ca-8fca-87c8833fa5a7)
+     Maka database id nomor 7 akan terhapus sesuai dengan metode post nya seperti yang ada di gambar
+     
