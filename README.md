@@ -1,6 +1,6 @@
 # API-SEDERHANA
 Ini adalah sebuah coding project API sederhana yang di bangun menggunakan PHP native, yang di gunakan untuk mengelola database pengguna, API ini sudah mendukung metode CRUD (Crate, Read, Update, Delete).
-Project ini menggunakan software [Postman](https://www.postman.com) untuk menggunakan API nya dan menggunakan database dari Phpmyadmin. Metode yang tersedia yaitu `GET`, `POST`, `PUT`, `DELETE` dengan **endpoint** `/users`, Penggunaan metodenya sebagai beriku:
+Project ini menggunakan software [Postman](https://www.postman.com) untuk menggunakan API nya dan menggunakan database dari `Phpmyadmin`. Metode yang tersedia yaitu `GET`, `POST`, `PUT`, `DELETE` dengan **endpoint** `/users`, Penggunaan metodenya sebagai beriku:
 
 #Penggunaan Metode
 
