@@ -29,6 +29,6 @@ Maka database name dan email pada id 7 akan berubah seperti di gambar
    - Endpoint `/users/7`
    - Contoh URL nya `http://localhost/dbapi/index.php?path=users/7`
    - Pada key nya di masukkan id dari id user di database seperti di gambar
-     ![Screenshot 2025-06-11 231142](https://github.com/user-attachments/assets/98559885-9e44-43ca-8fca-87c8833fa5a7)
-     Maka database id nomor 7 akan terhapus sesuai dengan metode post nya seperti yang ada di gambar
-     
+ ![Screenshot 2025-06-11 231604](https://github.com/user-attachments/assets/6570075b-753e-40e1-80bd-58687dc777d1)
+     Maka database id nomor 7 akan terhapus sesuai dengan metode post seperti yang ada di gambar
+![Screenshot 2025-06-11 231622](https://github.com/user-attachments/assets/81989744-ab43-463a-b503-e5c90d7c3fed)
